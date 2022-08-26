@@ -1,4 +1,4 @@
-# 5-Line-Dice-Roller
+# 4-Line-Dice-Roller
 A 5 Line dice roller
 ````python
 import random
